@@ -2,8 +2,7 @@
 
 **Idea To propose For Ideathon**
 
-The IEEE student chapter of VIT Bhopal had organised an Ideathon to showcase our ideas to the judges and the students
-
+The IEEE student chapter of VIT Bhopal had organised an Ideathon to showcase our ideas to the judges and the students. I with my teammates participated in it and created a solution of the problems faced by the day scholars and new on-boarding hostellers into the hostel, "The StudentConnect". It is a dynamic website which has the real time solution of all the stated problems.
 
 
 Project Title: The Student Connect 
