@@ -1,1 +1,19 @@
 # IEEEVitBhopal_15_Enigma
+
+**Idea To propose For Ideathon**
+
+The IEEE student chapter of VIT Bhopal had organised an Ideathon to showcase our ideas to the judges and the students
+
+
+
+Project Title: The Student Connect 
+               (Tech for Student Good)
+
+Team Name: Enigma
+
+Team Members: Shivam, Manikandan K, K.Dinkar, Antariksh Sarmah
+
+Project Description: It is a platform connecting day schloars and hostellers for essential services
+Technologies used: HTML/CSS, JavaSript, React, BootStrap, JQuery PHP, MySql, Google Maps API, AWS
+Theme Fit: This project is made to solve real life problems faced by day scholars and new onboarding hostellers to quench their requirements at the economic way possible. 
+
